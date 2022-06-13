@@ -7,4 +7,4 @@ Over 97% of websites use it client-side for web page behavior, often incorporati
 libraries. All major web browsers have a dedicated JavaScript engine to execute the code on the 
 user's device.
 
-I love JS.
+I love JS. JS is very interesting.
